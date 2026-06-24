@@ -26,8 +26,8 @@
 
 ```yaml
 name       : Mohana S
-role       : BE.Computer Science And Design · Full Stack Dev · UI/UX Designer
-education  : B.E. Computer Science & Design @ KEC
+role       : Full Stack Dev · UI/UX Designer
+education  : B.E. Computer Science & Design 
 year       : Final year (2023 → 2027)
 cgpa       : 8.84 / 10.0
 obsessed_with:
