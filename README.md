@@ -26,12 +26,10 @@
 
 ```yaml
 name       : Mohana S
-role       : CSD Student · Frontend Dev · UI/UX Designer
-location   : Neyveli, Cuddalore, India
+role       : BE.Computer Science And Design · Full Stack Dev · UI/UX Designer
 education  : B.E. Computer Science & Design @ KEC
-year       : 2nd year (2023 → 2027)
+year       : Final year (2023 → 2027)
 cgpa       : 8.84 / 10.0
-currently  : Frontend Mobile Dev Intern @ Luisant Software Solutions
 obsessed_with:
   - Building things that feel alive
   - Design systems that think
