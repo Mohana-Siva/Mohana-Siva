@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-s-07745931b/)
 [![GitHub](https://img.shields.io/badge/◈_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohana-Siva)
 [![Mail](https://img.shields.io/badge/◈_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohana.civa@gmail.com)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohana_S08/)
 
 </div>
 
