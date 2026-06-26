@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
 
 ## `whoami`
 
