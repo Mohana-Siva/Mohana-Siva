@@ -20,7 +20,9 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ## `whoami`
 
@@ -36,7 +38,14 @@ obsessed_with:
   - AI-integrated user experiences
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,15 +86,19 @@ obsessed_with:
 
 ## `/* areas of interest */`
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ◉  UI/UX Design        →   pixel-perfect & purposeful   │
-│   ◉  Web Development     →   full-stack, end to end       │
-│   ◉  DBMS                →   structured & scalable data   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ◉  UI/UX Design     →   pixel-perfect & purposeful       │
+│   ◉  Web Development  →   full-stack, end to end           │
+│   ◉  DBMS             →   structured & scalable data       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -94,7 +107,7 @@ obsessed_with:
 <div align="center">
 
 | Badge | Certification | Issuer | Year |
-|:---:|---|---|:---:|
+|:---:|:---|:---|:---:|
 | 🍃 | **MongoDB Certified Associate Developer** (Node.js) | MongoDB | 2025 |
 
 </div>
@@ -103,6 +116,8 @@ obsessed_with:
 
 ## `/* experience */`
 
+<div align="center">
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │  ◈  LUISANT SOFTWARE SOLUTIONS                                   │
@@ -110,6 +125,8 @@ obsessed_with:
 │     Dec 2025 → May 2026                                          │
 └──────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -133,9 +150,7 @@ const achievements = [
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohana-Siva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohana-Siva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-</div>
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mohana-Siva&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF)
 
