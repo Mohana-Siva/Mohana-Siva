@@ -11,37 +11,49 @@
 
 ### `< crafting interfaces · building logic · designing experiences />`
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logoColor=white)](https://mohana-s.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-s-07745931b/)
-[![Mail](https://img.shields.io/badge/◈_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohana.civa@gmail.com)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohana_S08/)
-
 </div>
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td width="55%" valign="top">
 
 ## `whoami`
 
-```yaml
-name       : Mohana S
-role       : Full Stack Dev · UI/UX Designer
-education  : B.E. Computer Science & Design 
-year       : Final year (2023 → 2027)
-cgpa       : 8.84 / 10.0
-obsessed_with:
-  - Building things that feel alive
-  - Design systems that think
-  - AI-integrated user experiences
-```
+<br/>
+
+# Mohana S
+
+### Full Stack Dev · UI/UX Designer
+
+<br/>
+
+**`Education`** &nbsp; B.E. Computer Science & Design — KEC Erode
+**`Year`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final year · 2023 → 2027
+**`CGPA`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.84 / 10.0
+**`Currently`** &nbsp; Frontend Mobile Dev Intern @ Luisant
+
+<br/>
+
+> *Building things that feel alive.*
+> *Design systems that think.*
+> *AI-integrated user experiences.*
 
 </td>
-<td valign="middle" width="45%" align="center">
+<td width="45%" valign="top" align="center">
 
-<img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+## `find me`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logoColor=white)](https://mohana-s.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-s-07745931b/)
+
+[![GitHub](https://img.shields.io/badge/◈_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohana-Siva)
+
+[![Mail](https://img.shields.io/badge/◈_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohana.civa@gmail.com)
 
 </td>
 </tr>
@@ -51,122 +63,103 @@ obsessed_with:
 
 ## `// tech stack`
 
-<div align="center">
+<br/>
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/>
 
 **Frontend & Design**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+
+<br/>
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/>
 
 **Tools & Workflow**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-</div>
-
----
-
-## `/* areas of interest */`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ◉  UI/UX Design     →   pixel-perfect & purposeful       │
-│   ◉  Web Development  →   full-stack, end to end           │
-│   ◉  DBMS             →   structured & scalable data       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<br/>
 
 ---
 
 ## `# certifications`
 
-<div align="center">
+<br/>
 
-| Badge | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| 🍃 | **MongoDB Certified Associate Developer** (Node.js) | MongoDB | 2025 |
+<table width="100%">
+<tr>
+<td width="60px" align="center" valign="middle" style="padding: 16px;">🍃</td>
+<td valign="middle" style="padding: 16px;">
+  <strong>MongoDB Certified Associate Developer</strong> &nbsp;·&nbsp; Node.js<br/>
+  <sub>Issued by MongoDB &nbsp;|&nbsp; May 2025</sub>
+</td>
+</tr>
+</table>
 
-</div>
+<br/>
 
 ---
 
 ## `/* experience */`
 
-<div align="center">
+<br/>
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ◈  LUISANT SOFTWARE SOLUTIONS                                   │
-│     Frontend Mobile Application Developer — Intern               │
-│     Dec 2025 → May 2026                                          │
-└──────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+<tr>
+<td valign="top" style="padding: 20px 24px;">
 
-</div>
+### 🏢 &nbsp; Luisant Software Solutions
 
----
-
-## `// achievements[]`
-
-```javascript
-const achievements = [
-  "🏆  Academic Excellence Award — 2024-2025",
-  "🎤  Paper presenter — Neuralink, Blockchain & Serverless Edge Computing",
-  "⚙️   Executive Member — Innovation & Entrepreneurship Forum 2024-2025",
-  "🤝  Member — National Service Scheme (NSS)",
-];
-```
-
----
-
-## `# github stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohana-Siva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohana-Siva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+**Mobile Application Frontend Developer Intern** &nbsp;·&nbsp; `Dec 2025 → May 2026`
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mohana-Siva&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF)
+During my internship, I contributed to the development of a production-grade mobile application built with React Native. I collaborated with the development team to create responsive user interfaces, integrate RESTful APIs, and enhance the overall user experience. I also worked closely with backend developers to ensure seamless communication between the frontend and backend services.
 
-</div>
+<br/>
+
+**Key Contributions**
+
+- Developed and maintained mobile application screens using React Native
+- Integrated REST APIs based on API documentation
+- Implemented responsive and reusable UI components
+- Debugged and resolved frontend issues to improve application stability
+- Collaborated with team members using Git and Agile development practices
+- Participated in code reviews, testing, and feature implementation
+
+<br/>
+
+**Technologies Used**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   "Design is not just what it looks like —          ║
-║    Design is how it works."  — Steve Jobs           ║
-╚══════════════════════════════════════════════════════╝
-```
+<br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mohana-Siva&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
+✦ &nbsp;&nbsp; *"Design is not just what it looks like — Design is how it works."* &nbsp;— Steve Jobs &nbsp;&nbsp; ✦
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Mohana-Siva&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
 
 </div>
